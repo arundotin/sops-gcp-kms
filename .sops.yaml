@@ -1,0 +1,3 @@
+---
+creation_rules:
+       - gcp_kms: projects/arun-project-308015/locations/global/keyRings/my-keyring/cryptoKeys/my-key
